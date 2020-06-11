@@ -14,5 +14,8 @@ Example 2:
 
 Input: ["H","a","n","n","a","h"]
 Output: ["h","a","n","n","a","H"]
-   Hide Hint #1  
+ 
+Hint #1  
 The entire logic for reversing a string is based on using the opposite directional two-pointer approach!
+
+https://leetcode.com/problems/reverse-string/
